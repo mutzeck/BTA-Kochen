@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background: #FFF;
+  font-family: Helvetica, Arial, sans-serif;
+  color:#000;
+  line-height: 1.4;
+  margin: 0;
+}
+nav a{
+  color: #000;
+  text-decoration: none;
+}
+/* Das ist ein Kommentar */
+#navi{
+  margin:0;
+  padding:0;
+  list-style: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+#pageheader{
+  background-color:#fff;
+}
